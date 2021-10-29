@@ -1,6 +1,6 @@
 # ab
 
-Containerfile for Apache Bench. This container is automatically built and hosted on
+Containerfile for Apache Bench. This container image is automatically built and hosted on
 [quay.io](https://quay.io/deparris/ab).
 
 # Usage
